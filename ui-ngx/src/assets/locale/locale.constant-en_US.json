@@ -371,7 +371,9 @@
         "action-data": "Action data",
         "failure-details": "Failure details",
         "search": "Search audit logs",
-        "clear-search": "Clear search"
+        "clear-search": "Clear search",
+        "type-assigned-from-tenant": "Assigned from Tenant",
+        "type-assigned-to-tenant": "Assigned to Tenant"
     },
     "confirm-on-exit": {
         "message": "You have unsaved changes. Are you sure you want to leave this page?",
@@ -851,6 +853,7 @@
         "type-current-customer": "Current Customer",
         "type-current-tenant": "Current Tenant",
         "type-current-user": "Current User",
+        "type-current-user-owner": "Current User Owner",
         "search": "Search entities",
         "selected-entities": "{ count, plural, 1 {1 entity} other {# entities} } selected",
         "entity-name": "Entity name",
@@ -1189,7 +1192,7 @@
            "starts-with": "starts with",
            "ends-with": "ends with",
            "contains": "contains",
-           "not-contain": "not contain",
+           "not-contains": "not contains",
            "greater": "greater than",
            "less": "less than",
            "greater-or-equal": "greater or equal",
